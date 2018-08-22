@@ -1,6 +1,6 @@
 # hyperdb-hosting
 
-This is just a crude module to help with hosting hyperdb's until [hypercored](https://github.com/mafintosh/hypercored) adds support in a smarter way.
+This is just a cli to help with hosting hyperdbs until [hypercored](https://github.com/mafintosh/hypercored) adds support in a smarter way.
 
 
 ## install

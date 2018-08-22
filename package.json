@@ -1,7 +1,7 @@
 {
   "name": "hyperdb-hosting",
   "version": "0.0.1",
-  "description": "",
+  "description": "a cli to help with hosting hyperdbs",
   "main": "index.js",
   "bin": {
     "hyperdb-hosting": "./index.js"
